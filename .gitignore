@@ -1,0 +1,9 @@
+# Model artifacts (exceeds GitHub file size limits)
+*.joblib
+*.pkl
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
